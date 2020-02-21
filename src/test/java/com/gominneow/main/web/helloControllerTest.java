@@ -1,4 +1,4 @@
-package com.gominneow.main.springboot;
+package com.gominneow.main.web;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
